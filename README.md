@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @Aya-AbdElsalam
+# 👋 Hi, I’m Aya AbdElsalam
 I'm a passionate front-end developer with a focus on React. I love crafting elegant user interfaces and building interactive web applications.
 - 🔭 **Currently working on:** exploring Next.js for server-side rendering.
 - 🌱 **Learning:** Always diving deeper into React hooks and functional programming concepts. Also exploring unit test jest .

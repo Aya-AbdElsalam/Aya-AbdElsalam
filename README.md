@@ -1,11 +1,11 @@
 # 👋 Hi, I’m Aya AbdElsalam
 I'm a passionate front-end developer with a focus on React/Next js. I love crafting elegant user interfaces and building interactive web applications.
-- 🔭 **Currently working on:** exploring vue.
-- 🌱 **Learning:**"I am always delving deeper into learning Next.js and functional programming concepts, as well as exploring unit testing using Jest.
+- 🔭 **Currently working on:** exploring Nuxt.
+- 🌱 **Learning:**"I am always delving deeper into learning vue and functional programming concepts, as well as exploring unit testing using Jest.
 - 💼 **I’m looking to** collaborate on innovative projects and contribute to impactful products.
 - 📫 **How to reach me** You can reach me via email at ayam28040@gmail.com, or through my personal portfolio at https://portfolio-aya-abdelsalam.vercel.app
 ## Skills
-- Proficient in React/Next.js
+- Proficient in React/Next.js , Vue js
 - Strong understanding of HTML5, CSS3, and JavaScript (ES6+)
 - Experience with Sass for efficient and maintainable CSS styling
 - Experience with TypeScript for statically typed JavaScript development

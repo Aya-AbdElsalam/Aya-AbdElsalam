@@ -1,22 +1,43 @@
-# 👋 Hi, I’m Aya AbdElsalam
-I'm a passionate front-end developer with a focus on React/Next js. I love crafting elegant user interfaces and building interactive web applications.
-- 🔭 **Currently working on:** exploring jQuey.
-- 💼 **I’m looking to** collaborate on innovative projects and contribute to impactful products.
-- 📫 **How to reach me** You can reach me via email at ayam28040@gmail.com, or through my personal portfolio at https://portfolio-aya-abdelsalam.vercel.app
+# Hi there 👋, I'm Aya AbdElsalam
+
+I'm a passionate front-end developer specializing in React/Next.js/Vue js/Nuxt js. My focus is on creating elegant user interfaces and interactive web applications.
+
+## Currently
+
+- 🔭 **Working on:** Exploring jQuery.
+- 💼 **Open to:** Collaboration on innovative projects and contributing to impactful products.
+
+## Contact
+
+- 📫 **Email:** ayam28040@gmail.com
+- 🌐 **Portfolio:** https://portfolio-aya-abdelsalam.vercel.app
+
 ## Skills
-- Proficient in React/Next.js , Vue js
-- Strong understanding of HTML5, CSS3, and JavaScript (ES6+)
-- Experience with Sass for efficient and maintainable CSS styling
-- Experience with TypeScript for statically typed JavaScript development
-- Experience with Bootstrap/MUI for responsive and mobile-first web development
-- Familiarity with responsive design techniques
-- Knowledge of RESTful APIs
-- Experience with version control systems, such as Git
-- Ability to collaborate effectively in a team environment
-- Continuous learner, always exploring new technologies and best practices in web development
+**Languages & Frameworks:**  
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) 
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) 
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vuedotjs&logoColor=4FC08D) 
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) 
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+
+**Styling:**  
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white) 
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white) 
+![MUI](https://img.shields.io/badge/MUI-007FFF?style=flat-square&logo=mui&logoColor=white)
+
+**Techniques & Tools:**  
+![Responsive Design](https://img.shields.io/badge/Responsive%20Design-007ACC?style=flat-square&logo=responsivewebdesign&logoColor=white) 
+![RESTful APIs](https://img.shields.io/badge/RESTful%20APIs-4CAF50?style=flat-square&logo=restapi&logoColor=white) 
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+**Soft Skills:**
+  - Effective team collaboration
+  - Continuous learning
+
 ## Education
- I am graduated from higher institute of engineering and technology in new Damietta, electronic and communication department, class 2023 with GPA 3.37 (B+).
-<!---
-Aya-AbdElsalam/Aya-AbdElsalam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+**Higher Institute of Engineering and Technology, New Damietta**  
+*Electronic and Communication Department, Class of 2023*  
+GPA: 3.37 (B+)
